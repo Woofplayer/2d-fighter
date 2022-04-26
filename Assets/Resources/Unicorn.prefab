@@ -280,6 +280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentHealth: 0
+  isHit: 0
 --- !u!114 &2115289444628663103
 MonoBehaviour:
   m_ObjectHideFlags: 0
